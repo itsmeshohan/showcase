@@ -44,7 +44,7 @@ Expert in industry-standard annotation tools:
 
 ## 🌐 Connect With Me
 - GitHub: https://github.com/itsmeshohan 
-- Portfolio: https://itsmeshohangithub.io/showcase 
+- Portfolio: https://itsmeshohan.github.io/showcase 
 - Upwork: https://www.upwork.com/fl/itsmeshohan
 ---
 
